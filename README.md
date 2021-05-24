@@ -16,7 +16,7 @@ _Aplicación informativa para el buen manejo de los residuos._
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Apache License, Version 2.0) - mira el archivo [LICENSE](https://github.com/edwinqbillos/Guia_Residuos/blob/main/LICENSE) para detalles
+Este proyecto está bajo la Licencia (Apache License, Version 2.0) - mira el archivo [LICENSE](https://github.com/edwinqbillos/GuiaResiduos/blob/main/LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
