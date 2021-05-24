@@ -1,0 +1,145 @@
+<resources>
+    <string name="banner_id">ca-app-pub-7245428100570397/3095194096</string>
+
+    <string name="app_name">Guía de Residuos</string>
+
+    // Titulos
+    <string name="btn_text_1">¿Qué es un residuo?</string>
+    <string name="btn_text_2">Tipos de Residuos</string>
+    <string name="btn_text_3">Disposición Final</string>
+    <string name="btn_text_4">Posconsumo</string>
+    <string name="btn_text_5">Condición</string>
+    <string name="btn_text_6">Tips Tres R</string>
+    <string name="btn_text_7">Beneficios</string>
+    <string name="btn_text_8">Separación en la Fuente</string>
+
+    // Subtitulos
+    <string name="sub_1">Residuo Sólido o Desecho</string>
+
+    <string name="sub_2_1">Residuos No Peligrosos</string>
+    <string name="sub_2_1_1">Aprovechable</string>
+    <string name="sub_2_1_2">No Aprovechable</string>
+    <string name="sub_2_1_3">Orgánico Biodegradable</string>
+    <string name="sub_2_2">Residuos Peligrosos y Especiales</string>
+    <string name="sub_2_2_1">Peligrosos</string>
+    <string name="sub_2_2_2">Especiales</string>
+
+    <string name="sub_4_1">Estos son los productos Posconsumo</string>
+
+    <string name="sub_6_1">Reducir</string>
+    <string name="sub_6_2">Reutilizar</string>
+    <string name="sub_6_3">Reciclar</string>
+
+    <string name="sub_8_1">Caneca Blanca</string>
+    <string name="sub_8_2">Caneca Verde</string>
+    <string name="sub_8_3">Caneca Negra</string>
+
+    // Informacion
+    <string name="info_1">Es cualquier objeto, material, sustancia o elemento sólido resultante del consumo o uso de un bien en actividades domésticas, industriales, comerciales, institucionales, de servicios, que el generador abandona, rechaza o entrega y que es susceptible de aprovechamiento o transformación en un nuevo bien, con valor económico o de disposición final. Los residuos sólidos se dividen en aprovechables y no aprovechables.</string>
+
+    <string name="info_2_1_1">Cualquier material, objeto, sustancia o elemento que no tiene valor para quien lo genera, pero se puede incorporar nuevamente a un proceso productivo.</string>
+    <string name="info_2_1_2">Todo material o sustancia que no ofrece ninguna posibilidad de aprovechamiento, reutilización o reincorporación a un proceso productivo. No tienen ningún valor comercial, por lo tanto, requieren disposición final.</string>
+    <string name="info_2_1_3">Son aquellos que tienen la característica de poder desintegrarse o degradarse rápidamente, transformándose en otro tipo de materia orgánica. Ejemplo: Los restos de comida, de fruta, cascarás, carnes, huevos.</string>
+
+    <string name="info_2_2_1">Es aquel residuo o desecho que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, infecciosas o radiactivas puede causar riesgo a la salud humana y el ambiente. Así mismo, se considera residuo o desecho peligroso los envases, empaques o embalajes que hayan estado en contacto con ellos.</string>
+    <string name="info_2_2_2">Residuos sólidos que por su calidad, cantidad, magnitud, volumen o peso puede presentar peligros y, por lo tanto, requiere un manejo especial. Incluye a los residuos con plazos de consumo expirados, desechos de establecimientos que utilizan sustancias peligrosas, lodos, residuos voluminosos o pesados que, con autorización o ilícitamente, son manejados conjuntamente con los residuos sólidos municipales.</string>
+
+    <string name="info_3_1">Es el lugar técnicamente seleccionado, diseñado y operado para la disposición final controlada de residuos sólidos, sin causar peligro, daño o riesgo a la salud pública, minimizando y controlando los impactos ambientales y utilizando principios de ingeniería, para la confinación y aislamiento de los residuos sólidos en un área mínima, con compactación de residuos, cobertura diaria de los mismos, control de gases y lixiviados, y cobertura final.</string>
+
+    <string name="info_4_1">El posconsumo es una labor ambiental que consiste en entregar residuos peligrosos y especiales a las empresas fabricantes a través del programa posconsumo a fin de garantizar su recolección, tratamiento y disposición final adecuada.</string>
+    <string name="info_4_2">Se tiene que tener en cuenta que los residuos posconsumo deben separarse de los residuos ordinarios y manejados de forma ambientalmente adecuada. Para esto existen empresas recolectoras como Lúmin (bombillas y tubos fluorescentes), Recoenergy (batería de plomo ácido), Recopila y Pilas con el ambiente (pilas domésticas), Red verde y Eco Computo (dispositivos electrónicos), Punto azul (medicamentos) entre otros, que disponen de contenedores especializados para recolectar estos residuos y los podremos encontrar en almacenes de cadena, droguerías, entidades del estado o en los mismos puntos de venta.</string>
+
+    <string name="info_5_1">Para hacer la separación desde la fuente de los residuos sólidos se requiere separar de tal forma que no se contaminen con otros residuos, siendo esencial que los materiales siempre se encuentren limpios y secos.</string>
+    <string name="info_5_1_1">En el caso de los envases que contiene líquidos es recomendable escurrir para evitar que derramen su contenido sobre los otros materiales.</string>
+    <string name="info_5_1_2">Los envases de vidrio o plástico que almacenan sustancias químicas o que estuvieron en conato con estas no se deben disponer con el material aprovechable, ya que se consideran residuos peligrosos.</string>
+    <string name="info_5_1_3">Los papeles impregnados con parafina, humo negro, grasas, aceites, revestimiento de plástico, satinados y aluminio son nocivos para el proceso de aprovechamiento y pueden contaminar los otros materiales.</string>
+
+    <string name="info_6_1">Implica en reducir la producción de basura, lo que quiere decir, que al adquirir algún producto debe de ser estrictamente de necesidad, así como también requerir objetos que tienen pocos envoltorios o embalajes, evitando aquellos elementos que pronto se convertirán en basura.</string>
+    <string name="info_6_1_1">- Usar productos que tengan mínimo de embalaje.</string>
+    <string name="info_6_1_2">- Evitar la compra y uso de desechables.</string>
+    <string name="info_6_1_3">- Usar envases lavables para los alimentos, y termos para bebidas.</string>
+    <string name="info_6_1_4">- Usar pilas recargables.</string>
+    <string name="info_6_1_5">- Evitar envases fabricados con materiales mixtos.</string>
+    <string name="info_6_2">Implica utilizar al máximo los desechos que se arrojan (bolsas plásticas, contenedores, descartables, ropa, etc.), utilizando residuos como materia esencial para la elaboración de productos nuevos, a fin de reducir la basura, como muchos de estos. Los productos podrían ser reutilizados nuevamente de diferentes maneras.</string>
+    <string name="info_6_2_1">- Reutiliza envases plásticos o cualquier tipo de elementos dando una nueva utilidad.</string>
+    <string name="info_6_2_2">- Usa las hojas de papel por ambas caras.</string>
+    <string name="info_6_2_3">- Reparar elementos deteriorados o dañados evitando que se arrojen a la basura.</string>
+    <string name="info_6_2_4">- Regalar elementos que ya no uses a otras personas “la basura de uno es el tesoro de otro”.</string>
+    <string name="info_6_3">Es el proceso mediante el cual se aprovechan y transforman los residuos sólidos recuperados y se devuelven a los materiales su potencialidad de reincorporación como materia prima para la fabricación de nuevos productos.</string>
+    <string name="info_6_3_1">- Realizar la separación adecuada de los residuos en la fuente.</string>
+    <string name="info_6_3_2">- Inculcar a los demás a practicar la separación en la fuente.</string>
+
+    <string name="info_7_1">Contribuimos con la preservación del medio ambiente disminuyendo la cantidad de residuos que se envían al relleno sanitario, bajando los índices de contaminación causada por residuos sólidos.</string>
+    <string name="info_7_2">Reduce el uso de recursos no renovables como combustibles fósiles y minerales usados para la generación de plásticos, vidrio, aluminios, entre otros. Como también los renovables como los árboles para la fabricación de papel y agua es usa en la mayoría de procesos industriales.</string>
+    <string name="info_7_3">La da un valor económico a los residuos que generamos, ya que cuesta menos reciclar que fabricar un nuevo producto. Reciclando ahorramos agua, energía y materia prima.</string>
+    <string name="info_7_4">El reciclaje puede fomentar muchos empleos, dado que se necesita una gran fuerza laboral para recolectar y clasificar los materiales aptos para el aprovechamiento, generando ingresos a muchas familias mejorando sus condiciones socioeconómicas.</string>
+
+    <string name="info_8_1">Es la acción de clasificar los residuos en bolsas o contenedores en el sitio de generación para su posterior manejo, ya sea para aprovechamiento o disposición final.</string>
+    <string name="info_8_1_1">Cartón y papel (hojas, plegadiza, periódico, carpetas), Vidrio (Botellas, recipientes), Plásticos (bolsas, envases PET, tapas), Residuos metálicos (chatarra, tapas, envases), Empaques compuestos tetrapak (cajas de leche, cajas jugo, cajas de licores).</string>
+    <string name="info_8_1_2">Papel tissue (papel higiénico, paños húmedos, pañales, toallas de mano, toallas sanitarias, protectores diarios), Papeles encerados, plastificados y metalizados, Cerámicas, Vidrio Plano, Huesos, Material de barrido, Colillas de cigarrillo, Materiales de empaque y embalaje sucios, Restos de comida cocidos.</string>
+    <string name="info_8_1_3">Residuos de comida no cocinados, Cortes y podas de materiales vegetales, Hojarasca</string>
+
+    // CANECA VERDE
+    <string name="pregunta_1_cv">¿Que es un residuo orgánico aprovechable?.</string>
+    <string name="r_1_1_cv">Son materiales resultantes del barrido de las calles.</string>
+    <string name="r_1_2_cv">Elemento que descompone rápidamente y se convierten en materia orgánica.</string>
+    <string name="r_1_3_cv">Material u objeto que no ofrece ninguna utilidad.</string>
+    <string name="r_1_4_cv">Material u objeto que desechamos, pero que se puede reciclar.</string>
+
+    <string name="pregunta_2_cv">¿Que significan las tres R?</string>
+    <string name="r_2_1_cv">Reducir, reutilizar, reciclar.</string>
+    <string name="r_2_2_cv">Reparar, reciclar, recoger.</string>
+    <string name="r_2_3_cv">Reducir, rescatar, reutilizar.</string>
+    <string name="r_2_4_cv">Ninguna de las anteriores.</string>
+
+    <string name="pregunta_3_cv">¿No es un residuo orgánico aprovechable?</string>
+    <string name="r_3_1_cv">Cascaras de plátano.</string>
+    <string name="r_3_2_cv">Residuos de comida cocinados.</string>
+    <string name="r_3_3_cv">Cáscara de huevo.</string>
+    <string name="r_3_4_cv">Pasto.</string>
+
+    // CANECA BLANCA
+    <string name="pregunta_1_cb">¿Que es un residuo aprovechable?</string>
+    <string name="r_1_1_cb">Material u objeto que no ofrece ninguna utilidad.</string>
+    <string name="r_1_2_cb">Material u objeto que desechamos, pero que se puede reciclar.</string>
+    <string name="r_1_3_cb">Todo material que contamina al medio ambiente.</string>
+    <string name="r_1_4_cb">Son elementos de gran tamaño.</string>
+
+    <string name="pregunta_2_cb">¿Una condición para entregar un material aprovechable es?</string>
+    <string name="r_2_1_cb">Que están impregnados de grasas y aceite.</string>
+    <string name="r_2_2_cb">Lavarlos.</string>
+    <string name="r_2_3_cb">Limpio y seco.</string>
+    <string name="r_2_4_cb">No escurrir.</string>
+
+    <string name="pregunta_3_cb">¿Un residuo posconsumo se tienen que disponer en la caneca blanca?</string>
+    <string name="r_3_1_cb">Si.</string>
+    <string name="r_3_2_cb">No.</string>
+    <string name="r_3_3_cb">Sólo los medicamentos.</string>
+    <string name="r_3_4_cb">Sólo los bombillos.</string>
+
+    // CANECA NEGRA
+    <string name="pregunta_1_cn">¿Que es un residuo no aprovechable?</string>
+    <string name="r_1_1_cn">Elemento que descompone rápidamente y se convierten en materia orgánica.</string>
+    <string name="r_1_2_cn">Son elementos de gran tamaño.</string>
+    <string name="r_1_3_cn">Material u objeto que no ofrece ninguna utilidad.</string>
+    <string name="r_1_4_cn">Material u objeto que desechamos, pero que se puede reciclar.</string>
+
+    <string name="pregunta_2_cn">¿Qué tipos de residuos deben ir directamente a un relleno sanitario?</string>
+    <string name="r_2_1_cn">Residuo peligroso.</string>
+    <string name="r_2_2_cn">Residuos no aprovechables.</string>
+    <string name="r_2_3_cn">Residuos aprovechables.</string>
+    <string name="r_2_4_cn">Residuos orgánicos.</string>
+
+    <string name="pregunta_3_cn">¿Cuanto tiempo promedio tarda en degradarse una botella plástica?</string>
+    <string name="r_3_1_cn">Menos de un año.</string>
+    <string name="r_3_2_cn">Entre de 1 a 10 años.</string>
+    <string name="r_3_3_cn">Entre 10 a 100 años.</string>
+    <string name="r_3_4_cn">Entre 100 a 1000 años.</string>
+
+    <string name="p_1">PREGUNTA 1</string>
+    <string name="p_2">PREGUNTA 2</string>
+    <string name="p_3">PREGUNTA 3</string>
+    <string name="encabezado">RESULTADOS</string>
+    <string name="next">SIGUIENTE</string>
+
+</resources>
