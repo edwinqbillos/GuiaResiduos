@@ -11,7 +11,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.cubillosdev.guiaresiduos"
+        applicationId "com.cubillosdev.guiaresiduos.release"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 7
@@ -31,7 +31,7 @@ android {
         try {
             storeFile file("C:\\Users\\eecg0\\Documents\\Programacion\\Android\\Key\\storagekey.jks")
             storePassword KEYSTORE_PASSWORD
-            keyAlias KEY_NAME
+            keyAlias "residuos"
             keyPassword KEY_PASSWORD
         }
         catch (ignored) {
