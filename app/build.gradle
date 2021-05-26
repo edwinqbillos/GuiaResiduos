@@ -14,8 +14,8 @@ android {
         applicationId "com.cubillosdev.guiaresiduos"
         minSdkVersion 23
         targetSdkVersion 30
-        versionCode 6
-        versionName "1.0.5"
+        versionCode 7
+        versionName "1.0.6"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 
@@ -31,10 +31,10 @@ android {
         try {
             storeFile file("C:\\Users\\eecg0\\Documents\\Programacion\\Android\\Key\\storagekey.jks")
             storePassword KEYSTORE_PASSWORD
-            keyAlias "residuos"
+            keyAlias KEY_NAME
             keyPassword KEY_PASSWORD
         }
-        catch (ex) {
+        catch (ignored) {
             throw new InvalidUserDataException("Deberías definir tu KEYSTORE_PASSWORD y KEY_PASSWORD en gradle.properties.")
         }
     }
