@@ -21,6 +21,5 @@ Este proyecto está bajo la Licencia (Apache License, Version 2.0) - mira el arc
 ## Expresiones de Gratitud 🎁
 
 * Recibo todo tipo de critica.
-* Agradezco a todo aquel que se la baje, me ayudarian mucho.
 
 ---
