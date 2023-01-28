@@ -12,7 +12,7 @@ _Aplicación informativa para el buen manejo de los residuos._
 
 ## Autores ✒️
 
-* **Edwin Cubillos** - [edwinqbillos](https://github.com/erasmocubillos)
+* **Edwin Cubillos** - [erasmocubillos](https://github.com/erasmocubillos)
 
 ## Licencia 📄
 
